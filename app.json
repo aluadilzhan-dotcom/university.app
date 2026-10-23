@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "university.app",
     "slug": "university.app",
+=======
+    "name": "ALT_Alua",
+    "slug": "ALT_Alua",
+>>>>>>> d336f759fe423235a0e398dfdab10aec7047a47a
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,8 +20,12 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
+<<<<<<< HEAD
       },
       "predictiveBackGestureEnabled": false
+=======
+      }
+>>>>>>> d336f759fe423235a0e398dfdab10aec7047a47a
     },
     "web": {
       "favicon": "./assets/favicon.png"
