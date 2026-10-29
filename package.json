@@ -1,8 +1,13 @@
 {
-<<<<<<< HEAD
-  "name": "university.app",
+  "name": "university-app",
   "version": "1.0.0",
   "main": "index.ts",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
   "dependencies": {
     "expo": "~58.0.17",
     "expo-status-bar": "~58.0.4",
@@ -12,22 +17,6 @@
   "devDependencies": {
     "@types/react": "~19.3.0",
     "typescript": "~6.0.3"
-=======
-  "name": "alt_alua",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "expo": "~57.0.27",
-    "expo-status-bar": "~57.0.1",
-    "react": "19.2.3",
-    "react-native": "0.86.3"
->>>>>>> d336f759fe423235a0e398dfdab10aec7047a47a
-  },
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
   },
   "private": true
 }
